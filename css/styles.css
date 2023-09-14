@@ -1,0 +1,68 @@
+body {
+    font-family: font-family: 'Roboto', sans-serif;;
+    color: #434455;
+    background-color: ;
+}
+h1 {
+    font-size: 56px;
+    font-weight: bold;
+    letter-spacing: 2%;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+h2 {
+    color: #2E2F42;
+}
+h3 {
+    font-size: 20px;
+    font-weight: medium;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+p {
+    color: #554352;
+}
+a:link {
+    text-decoration: none;
+}
+
+
+.header-nav-items{
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: medium;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+.header-socials {
+    color: #434455;
+    font-weight: regular;
+    font-size: 16px;
+    letter-spacing: 2%;
+}
+.main-section-button {
+    color: #FFFFFF;
+    background: #4D5AE5;
+}
+.main-section-button:active {
+    color: #FFFFFF;
+    background: #404BBF;
+}
+
+
+.our-team-section {
+  
+}
+.our-team-section-title , our-portfolio-section-title {
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 2%; 
+}
+.footer-text {
+    color: #F4F4FD;
+    font-size: 16px;
+    font-weight: regular;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
