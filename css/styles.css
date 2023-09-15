@@ -57,7 +57,7 @@ a:link {
 .header-socials {
   font-style: normal;
 }
-.header-socials-items a {
+.header-socials-item  {
   color: #434455;
   font-weight: regular;
   font-size: 16px;
@@ -65,10 +65,10 @@ a:link {
   font-style: normal;
   line-height: 1.5;
 }
-.header-socials-items a:hover {
+.header-socials-item:hover {
   color: #404bbf;
 }
-.header-socials-items a:active {
+.header-socials-item:active {
   color: #404bbf;
 }
 
@@ -80,7 +80,7 @@ a:link {
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   color: #fff;
   text-align: center;
