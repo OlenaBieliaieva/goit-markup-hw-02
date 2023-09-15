@@ -12,6 +12,7 @@ h1 {
   color: #ffffff;
 }
 h2 {
+    font-size: 36px;;
   color: #2e2f42;
   text-transform: capitalize;
   line-height: 1.11;
@@ -132,7 +133,6 @@ a:link {
   background-color: #f4f4fd;
 }
 .our-team-section-title {
-  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -163,7 +163,6 @@ our-portfolio-section-title {
   background-color: #ffffff;
 }
 .our-portfolio-section-title {
-  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
