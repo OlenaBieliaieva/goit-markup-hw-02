@@ -128,7 +128,7 @@ a:link {
 .our-team-section {
   background-color: #f4f4fd;
 }
-.our-team-title {
+.our-team-section-title {
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
@@ -152,7 +152,7 @@ our-portfolio-section-title {
 .our-team-section-item-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: ##434455;
+  color: #434455;
 }
 
 /* our portfolio section */
