@@ -51,7 +51,7 @@ a:link {
 .header-nav-item:hover {
   color: #404bbf;
 }
-.header-nav-item:active {
+.header-nav-item:focus  {
   color: #404bbf;
 }
 .header-socials {
@@ -65,7 +65,7 @@ a:link {
   font-style: normal;
   line-height: 1.5;
 }
-.header-socials-item:hover {
+.header-socials-item:hover, :focus {
   color: #404bbf;
 }
 .header-socials-item:focus {
@@ -109,17 +109,11 @@ a:link {
 .about-us-section {
   background-color: #ffffff;
 }
-.about-us-section-title {
-  font-weight: 500;
-  letter-spacing: 0.02em;
-  line-height: 1.2;
-  text-align: center;
-  letter-spacing: 0.02em;
-}
-.about-us-section-item {
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
+.about-us-section-item-title {
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    font-size: 20px;
 }
 .about-us-section-item-text {
   line-height: 1.5;
