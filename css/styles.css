@@ -60,6 +60,9 @@ a:link {
 .header-nav-item:active {
   color: #404bbf;
 }
+.header-socials {
+    font-style: normal;
+}
 .header-socials-items a {
   color: #434455;
   font-weight: regular;
